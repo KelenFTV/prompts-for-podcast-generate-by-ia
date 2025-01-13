@@ -33,7 +33,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -76,17 +76,17 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/KelenFTV">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="www.linkedin.com/in/kelen-vazquez-6-exe">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/kelen.ferreira9.exe/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -96,4 +96,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Kelen Vazqwuez](https://github.com/KelenFTV)
