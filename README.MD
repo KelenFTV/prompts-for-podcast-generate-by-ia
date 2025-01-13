@@ -73,7 +73,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspKelen Vazquez<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/KelenFTV">
@@ -81,12 +81,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/kelen-vazquez-6-exe">
+        href="www.linkedin.com/in/kelen-vazquez-6">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/kelen.ferreira9.exe/">
+        href="https://www.instagram.com/kelen.ferreira9/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -96,4 +96,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Kelen Vazqwuez](https://github.com/KelenFTV)
+⌨️ com 💜 por [Kelen Vazquez](https://github.com/KelenFTV)
