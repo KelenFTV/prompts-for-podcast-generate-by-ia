@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./github/assets/cover.png"
+    src="./.github/assets/cover.png"
     width="300"
 />
 </p>
