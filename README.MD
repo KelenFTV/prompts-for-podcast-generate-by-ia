@@ -41,6 +41,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 - [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [Leonardo ai](https://leonardo.ai/)
 
 ## ✨ Como foi feito ?
 
